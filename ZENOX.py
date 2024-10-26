@@ -1,1 +1,1 @@
-impirt ZENOX
+import ZENOX
